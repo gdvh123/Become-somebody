@@ -3,6 +3,8 @@
 开始入门Spring-boot
 已完成Hellow Spring-boot
 
+项目结构
+.
 ├── README.md 
 ├── img  -- 放了一些README.md文档所需要的图片，没有实际意义
 ├── pom.xml
